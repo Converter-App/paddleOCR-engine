@@ -1,0 +1,5 @@
+datetime
+paddlepaddle
+imgaug
+paddleocr
+pillow
