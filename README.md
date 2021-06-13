@@ -1,4 +1,4 @@
-Minmal PaddleOCR engine example provided by [Converter App](https://converter.app/).
+Minimal PaddleOCR engine example provided by [Converter App](https://converter.app/).
 
 The recommended Python version is Python 3.8.
 
