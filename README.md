@@ -18,4 +18,9 @@ once needed. Alternatively, you can also put the .paddleocr
 folder in your home directory which contains all models
 for running this example right away.
 
+GPU Support:
+
+By default, the example will use your CPU. To enable GPU support,
+follow the instructions from 'Step 5' in this [PaddleOCR tutorial](https://converter.app/blog/paddleocr-engine-example-and-benchmark).
+
 No warranty of any kind.
